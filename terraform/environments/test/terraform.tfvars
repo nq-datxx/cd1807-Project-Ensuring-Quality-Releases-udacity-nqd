@@ -6,7 +6,7 @@ tenant_id = "606a753a-2156-4dec-a41c-9bca438a18a9"
 
 # Resource Group/Location
 location = "West US"
-resource_group_name = "udacity-project3"
+resource_group = "udacity-project3"
 application_type = "datnqApplication"
 
 # Network
